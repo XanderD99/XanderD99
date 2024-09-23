@@ -16,7 +16,9 @@ Outside of work, I’m an avid gamer and enjoy riding my bicycle, which is a per
 ![node](https://img.shields.io/badge/Node.js-%2312100E.svg?logo=node.js&style=for-the-badge)
 ![vue](https://img.shields.io/badge/Vue.js-%2312100E.svg?logo=vue.js&style=for-the-badge)
 ![nuxt](https://img.shields.io/badge/Nuxt.js-%2312100E.svg?logo=nuxt.js&style=for-the-badge)
+![tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![strapi](https://img.shields.io/badge/Strapi-%2312100E.svg?logo=strapi&style=for-the-badge)
+
 
 ![mongodb](https://img.shields.io/badge/MongoDB-%2312100E.svg?logo=mongodb&style=for-the-badge)
 ![postgres](https://img.shields.io/badge/PostgeSQL-%2312100E.svg?logo=postgresql&style=for-the-badge)
