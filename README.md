@@ -54,6 +54,7 @@ Off the clock it's Discord bots, Flutter experiments, gaming, and cycling.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Apache Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
 
 **Platform**
 
