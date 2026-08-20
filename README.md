@@ -14,7 +14,9 @@
 
 Most of my day is spent on the backend: designing **Go** microservices, keeping **PostgreSQL** and **MongoDB** honest, and shipping them onto **Kubernetes** with Docker. I came up through the frontend though — **Vue** and **Nuxt** — and I still reach for it when a service needs a face, which means I can follow a feature from schema to screen without handing it off.
 
-Before this I worked on Be-Mobile's mobility platform, including **Sway**, a safety app that combines real-time traffic data with smart notifications for cyclists and pedestrians. On the side I maintain **[strapi-prometheus](https://github.com/XanderD99/strapi-prometheus)**, which wires Prometheus metrics into Strapi and has picked up users well beyond me.
+Right now I'm at **[Go Virtual](https://github.com/GO-VIRTUAL-bv)**, on the services behind real-time geofencing and centimetre-accurate RTK GNSS positioning — the kind where someone on a port or rail site gets a warning *before* proximity becomes an incident. Most of that lives in private repos, but the geospatial building blocks don't: I wrote **[tile38.go](https://github.com/GO-VIRTUAL-bv/tile38.go)**, a dependency-free Go client for Tile38 that speaks RESP straight over `net.Conn` and streams live geofence events.
+
+Before that came Be-Mobile's mobility platform, including **Sway**, a safety app pairing real-time traffic data with smart notifications for cyclists and pedestrians. On the side I maintain **[strapi-prometheus](https://github.com/XanderD99/strapi-prometheus)**, which wires Prometheus metrics into Strapi and has picked up users well beyond me.
 
 Off the clock it's Discord bots, Flutter experiments, gaming, and cycling.
 
